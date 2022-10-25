@@ -1,0 +1,1 @@
+Efiflash B550IAPA.F12
