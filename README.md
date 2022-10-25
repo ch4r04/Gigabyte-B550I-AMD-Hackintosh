@@ -39,6 +39,6 @@ Gigabyte B550I AMD Hackintosh OC 0.8.3
 
 # THANKS
 
-[https://github.com/aleixsr/Ryzentosh](https://github.com/aleixsr/Ryzentosh)
-[https://github.com/radianttap/EFI-B550I-Aorus](https://github.com/radianttap/EFI-B550I-Aorus)
+* [https://github.com/aleixsr/Ryzentosh](https://github.com/aleixsr/Ryzentosh)
+* [https://github.com/radianttap/EFI-B550I-Aorus](https://github.com/radianttap/EFI-B550I-Aorus)
 
